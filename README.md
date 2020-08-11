@@ -1,8 +1,8 @@
-# Hello there!
+## Hello there!
 
-I'm Erzhan, a 17 year old developer from Kazakhstan. I joined Github **4** years ago.
+I'm Erzhan, a 17 year old developer from Kazakhstan. I joined GitHub **4** years ago.
 
-Since then I pushed **2565** commits, opened **1** issues, submitted **91** pull requests, received **379** stars across **95** personal projects and contributed to **11** public repositories.
+Since then I pushed **2566** commits, opened **1** issues, submitted **91** pull requests, received **379** stars and contributed to **11** public repositories.
 
 Most used languages across my projects:
 
