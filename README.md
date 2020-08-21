@@ -2,7 +2,7 @@
 
 I'm Erzhan, a full-stack developer from Kazakhstan. I joined GitHub **4** years ago.
 
-Since then I pushed **2605** commits, opened **1** issues, submitted **99** pull requests, received **381** stars and contributed to **11** public repositories.
+Since then I pushed **2605** commits, opened **1** issues, submitted **101** pull requests, received **381** stars and contributed to **11** public repositories.
 
 Most used languages across my projects:
 
