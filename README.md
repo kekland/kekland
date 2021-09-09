@@ -38,10 +38,10 @@ Check out my portfolio [here](https://kekland.com) :)
 <br />
 <br />
 
-<a href="https://github.com/kekland">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekland&count_private=true&bg_color=fefefe&title_color=ca054d&text_color=353535&show_icons=true" />
+<a href="https://discord.com/users/149878649145786368">
+  <img align="center" height="200px" src="https://lanyard-profile-readme.vercel.app/api/149878649145786368?hideDiscrim=true" />
 </a>
 
 <a href="https://github.com/kekland">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kekland&count_private=true&bg_color=fefefe&title_color=ca054d&text_color=353535&show_icons=true" />
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=kekland&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=10px" />
 </a>
