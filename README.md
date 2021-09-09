@@ -39,7 +39,7 @@ Check out my portfolio [here](https://kekland.com) :)
 <br />
 
 <a href="https://github.com/kekland">
-  <img align="left" height="360px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekland&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=10px" />
+  <img align="left" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kekland&count_private=true&bg_color=1a1c20&title_color=ffffff&text_color=cccccc&hide_border=true&show_icons=true&border_radius=10px" />
 </a>
 
 <a href="https://discord.com/users/149878649145786368">
