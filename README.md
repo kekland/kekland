@@ -1,5 +1,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=kekland&color=ca054d)
 
+My server is broken and the icons are not loading atm :)
+
 <a href="https://github.com/kekland">
   <img align="left" alt="GitHub profile" src="https://kekland.com/api/uploads/github_faa2ba25f7.svg" width="24px" />
 </a>
